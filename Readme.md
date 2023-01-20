@@ -1,9 +1,6 @@
 Program: Blackjack Game
-
 Contributors: Rachel Vanderlely, Grant Long, Destiny Conley, and Cade Ruple
-
 Date: December 7th, 2022
-
 Description: Client/Server program used to faciliate the gameplay of the casino banking game Blackjack.
 
 --------------------------------------------------------------------------------------------------------
