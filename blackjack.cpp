@@ -577,3 +577,4 @@ using std::vector;
       }
   }
 }; // End of class
+
